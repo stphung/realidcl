@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: RealIDCL
+## Notes: A command line interface for Real ID.
+## Author: stphung
+## Version: 3
+
+embeds.xml
+Core.lua
